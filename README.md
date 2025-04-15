@@ -49,8 +49,8 @@ Our implementation shows significant improvements in BER performance after equal
 
 1. Clone the repository:
 ```
-git clone https://github.com/username/adaptive-equalization-project.git
-cd adaptive-equalization-project
+git clone [https://github.com/HasanZiyade/adaptive-equalization.git]
+cd adaptive-equalization
 ```
 
 2. Make sure you have a test image named `man.png` in the `data` directory or update the image path in the main script.
